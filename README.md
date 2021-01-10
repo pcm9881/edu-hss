@@ -16,3 +16,10 @@ git rm : 파일 삭제
 git add : 파일내용 인덱스 추가
 git commit : 바뀐 사항을 저장소를 기록
 
+# html 파일 올리기
+
+1. text.html파일을 git->edu-hss 폴더에 복사
+2. ll 명령어로 파일 확인
+3. git add text.html 으로 저장
+4. git commit -m "메세지" 로 커밋
+5. git push 파일push
